@@ -1,9 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
-
 int[] tab = { 1, 2, 3, 4, 5 };
-Console.WriteLine(Average(tab));
+Console.WriteLine("Average:"+Average(tab));
 
 
 
