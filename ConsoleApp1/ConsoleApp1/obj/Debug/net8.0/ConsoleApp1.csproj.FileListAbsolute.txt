@@ -12,3 +12,4 @@ C:\Users\mateu.LAPTOP-I7ME181K\Desktop\APBD\ConsoleApp1\ConsoleApp1\obj\Debug\ne
 C:\Users\mateu.LAPTOP-I7ME181K\Desktop\APBD\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\mateu.LAPTOP-I7ME181K\Desktop\APBD\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\mateu.LAPTOP-I7ME181K\Desktop\APBD\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\mateu.LAPTOP-I7ME181K\Desktop\APBD\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
